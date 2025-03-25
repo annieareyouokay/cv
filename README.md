@@ -17,7 +17,7 @@
   - Python-telegram-bot  
   - Poetry  
 
-### **Базы данных**  
+### **Databases**  
 - **Реляционные**: MS SQL, PostgreSQL
 - **NoSQL**: Qdrant, MongoDB  
 
