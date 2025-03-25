@@ -21,7 +21,7 @@
 - **Реляционные**: MS SQL, PostgreSQL
 - **NoSQL**: Qdrant, MongoDB  
 
-### **DevOps & Инфраструктура**  
+### **DevOps и Инфраструктура**  
 - **Контроль версий**: Git, GitLab  
 - **Контейнеризация и оркестрация**: Docker, Docker Compose, Kubernetes  
 
