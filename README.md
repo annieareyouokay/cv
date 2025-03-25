@@ -1,7 +1,6 @@
 # 🛠️ Fullstack developer
 
 # **Юровник Максим**  
-*(замените на ваши данные)*  
 📧 Email: telecaster068@gmail.com | 🌐 LinkedIn/GitHub: *[linkedin](https://www.linkedin.com/in/maksim-yurovnik-3510aa18a)*, *[github](https://github.com/annieareyouokay)*
 
 ### 🏆 О моей карьере разработчика
